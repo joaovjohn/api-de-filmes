@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0DMocoV0iyrqigo05e4eLZc+Fpj3ZGyvlNnp5to7JplWQO5kOMNO/uimBIeSEoxyEb5BLIMdYkG5KdVta48weQ==",
+  "dgSpecHash": "enblGk57b4hzPDqJ/kmNhv7c3Lpl1j4lE51wNkZ8OuKM255GR6E/Ukk8qI2MtYzxAJTG0vFQHEaYGyzcCPFsDQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\c#\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DESENV14\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\DESENV14\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\DESENV14\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\DESENV14\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\DESENV14\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -12,7 +14,7 @@
     "C:\\Users\\DESENV14\\.nuget\\packages\\microsoft.build\\15.9.20\\microsoft.build.15.9.20.nupkg.sha512",
     "C:\\Users\\DESENV14\\.nuget\\packages\\microsoft.build.framework\\15.9.20\\microsoft.build.framework.15.9.20.nupkg.sha512",
     "C:\\Users\\DESENV14\\.nuget\\packages\\microsoft.build.utilities.core\\15.9.20\\microsoft.build.utilities.core.15.9.20.nupkg.sha512",
-    "C:\\Users\\DESENV14\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\DESENV14\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\DESENV14\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\DESENV14\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\DESENV14\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",

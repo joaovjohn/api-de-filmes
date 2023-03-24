@@ -1,12 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace FilmesAPI.Models;
+namespace FilmesAPI.Context.DTOs;
 
-public class Filme
+public class CriarFilmeDTO
 {
-    [Key]
-    [Required]
-    public int Id { get; set; }
 
     [Required(ErrorMessage = "O título do filme é obrigatório")]
     public string Titulo { get; set; }
@@ -20,4 +17,3 @@ public class Filme
     public int Duracao { get; set; }
 
 }
-

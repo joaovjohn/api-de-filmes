@@ -5,11 +5,14 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = builder.Configuration.GetConnectionString("FilmeConnection");
+var connectionString = builder.Configuration.
+    GetConnectionString("FilmeConnection");
 
 builder.Services.AddDbContext<FilmeDBContext>
     (options => options.UseSqlServer(connectionString));
 
+builder.Services.
+    AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
